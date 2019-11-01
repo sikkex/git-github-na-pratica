@@ -36,4 +36,3 @@ https://git-scm.com/download
 * `git push` // envia alterações locais para o repositório remoto
 * `git clone` // clonar um projeto / repositório
 * `git pull` // puxa do repositório remoto
-* 
